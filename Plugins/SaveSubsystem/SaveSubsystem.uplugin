@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SaveSubsystem",
+	"Description": "Objects Save System",
+	"Category": "Other",
+	"CreatedBy": "szzznapi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SaveSubsystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
